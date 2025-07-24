@@ -8,6 +8,5 @@
 
 
 const urls = [
-	'https://zhihao0615.github.io/VI-experiment/start.html',
-	'https://zhihao0615.github.io/VI-experiment/start.html'
+	'https://docs.google.com/forms/d/1vNJoBcg-KgWimTpy6_29gemBsfseMZIFCpk-ZHIn2_E/edit?pli=1'
 ];
