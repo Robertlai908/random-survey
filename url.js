@@ -8,5 +8,5 @@
 
 
 const urls = [
-	'https://docs.google.com/forms/d/1vNJoBcg-KgWimTpy6_29gemBsfseMZIFCpk-ZHIn2_E/edit?pli=1'
+	'file:///C:/Users/user/Desktop/welcome.html'
 ];
